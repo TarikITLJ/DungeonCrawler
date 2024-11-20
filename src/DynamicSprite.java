@@ -10,7 +10,7 @@ public class DynamicSprite extends SolidSprite {
     protected boolean isWalking = true;
     private double speed = 13;
     private final int spriteSheetNumberOfColumn = 10;
-    private int timeBetweenFrame = 200;
+    private int timeBetweenFrame = 100;
     private Direction direction = Direction.South;
     private int apples = 3;
     private JFrame displayZoneFrame;
