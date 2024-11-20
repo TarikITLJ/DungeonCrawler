@@ -1,4 +1,5 @@
 Dungeon Crawler type game made using Java.
+
 Functionnalities available:
  - Start screen,
  - Health bar,
